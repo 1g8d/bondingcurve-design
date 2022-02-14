@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bc-design/static/css/main.ed579467.chunk.css",
+    "main.js": "/bc-design/static/js/main.6b2792d1.chunk.js",
+    "main.js.map": "/bc-design/static/js/main.6b2792d1.chunk.js.map",
+    "runtime~main.js": "/bc-design/static/js/runtime~main.d2028c90.js",
+    "runtime~main.js.map": "/bc-design/static/js/runtime~main.d2028c90.js.map",
+    "static/js/2.2d14faf1.chunk.js": "/bc-design/static/js/2.2d14faf1.chunk.js",
+    "static/js/2.2d14faf1.chunk.js.map": "/bc-design/static/js/2.2d14faf1.chunk.js.map",
+    "index.html": "/bc-design/index.html",
+    "precache-manifest.1242d10d36e6c9381a5963029cb71adc.js": "/bc-design/precache-manifest.1242d10d36e6c9381a5963029cb71adc.js",
+    "service-worker.js": "/bc-design/service-worker.js",
+    "static/css/main.ed579467.chunk.css.map": "/bc-design/static/css/main.ed579467.chunk.css.map"
+  }
+}
