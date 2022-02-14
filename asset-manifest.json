@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bondingcurve-design/static/css/main.ed579467.chunk.css",
-    "main.js": "/bondingcurve-design/static/js/main.6b2792d1.chunk.js",
-    "main.js.map": "/bondingcurve-design/static/js/main.6b2792d1.chunk.js.map",
-    "runtime~main.js": "/bondingcurve-design/static/js/runtime~main.2d1b21b9.js",
-    "runtime~main.js.map": "/bondingcurve-design/static/js/runtime~main.2d1b21b9.js.map",
-    "static/js/2.2d14faf1.chunk.js": "/bondingcurve-design/static/js/2.2d14faf1.chunk.js",
-    "static/js/2.2d14faf1.chunk.js.map": "/bondingcurve-design/static/js/2.2d14faf1.chunk.js.map",
+    "main.js": "/bondingcurve-design/static/js/main.e158b515.chunk.js",
+    "main.js.map": "/bondingcurve-design/static/js/main.e158b515.chunk.js.map",
+    "runtime~main.js": "/bondingcurve-design/static/js/runtime~main.1d048eb4.js",
+    "runtime~main.js.map": "/bondingcurve-design/static/js/runtime~main.1d048eb4.js.map",
+    "static/js/2.a18753f9.chunk.js": "/bondingcurve-design/static/js/2.a18753f9.chunk.js",
+    "static/js/2.a18753f9.chunk.js.map": "/bondingcurve-design/static/js/2.a18753f9.chunk.js.map",
     "index.html": "/bondingcurve-design/index.html",
-    "precache-manifest.4f7904c4294105be351fc29602f54621.js": "/bondingcurve-design/precache-manifest.4f7904c4294105be351fc29602f54621.js",
+    "precache-manifest.d3c6936fae76fe3d9a6a030e78f23867.js": "/bondingcurve-design/precache-manifest.d3c6936fae76fe3d9a6a030e78f23867.js",
     "service-worker.js": "/bondingcurve-design/service-worker.js",
     "static/css/main.ed579467.chunk.css.map": "/bondingcurve-design/static/css/main.ed579467.chunk.css.map"
   }

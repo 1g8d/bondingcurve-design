@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bondingcurve-design/precache-manifest.4f7904c4294105be351fc29602f54621.js"
+  "/bondingcurve-design/precache-manifest.d3c6936fae76fe3d9a6a030e78f23867.js"
 );
 
 self.addEventListener('message', (event) => {
